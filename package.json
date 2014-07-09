@@ -1,0 +1,29 @@
+{
+  "name": "ember-cli-tests-qunit",
+  "version": "0.0.1",
+  "description": "Provides assets required for qunit based tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrmod/ember-cli-tests-qunit"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Krzysztof Modras",
+  "license": "MIT",
+  "files": [
+    "vendor-addon/**",
+    "index.js"
+  ],
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/chrmod/ember-cli-tests-qunit/issues"
+  },
+  "homepage": "https://github.com/chrmod/ember-cli-tests-qunit",
+  "devDependencies": {}
+}
